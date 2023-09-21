@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodTraderApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodTraderApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2017114220/FoodTraderApp.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2017114220/FoodTraderApp.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1535955227/FoodTraderApp.react-native-mmkv.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1535955227/FoodTraderApp.react-native-mmkv.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1115991504/FoodTraderApp.react-native-reanimated.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1115991504/FoodTraderApp.react-native-reanimated.main.iml" />
+    </modules>
+  </component>
+</project>
